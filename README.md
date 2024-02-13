@@ -4,6 +4,4 @@
 
 สำหรับรายวิชา OOP [OOP](https://66114540092.github.io)
 
-![download banner](./banner.jpg)
-
 กิตติธัช เอมรัตน์
