@@ -1,4 +1,8 @@
-import streamlit as st
+#import streamlit as st
 
-st.header('My OOP Notebook')
+#st.header('My OOP Notebook')
 #Streamlit run streamlit/app01.pys
+
+import streamlit
+
+print(streamlit.__version__)
